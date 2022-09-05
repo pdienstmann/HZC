@@ -1,4 +1,4 @@
-<h4>Link para o figma: https://www.figma.com/file/npIwtssuozngi1bEDML221/Dispondo-elementos-com-flexbox-e-grid-(Copy)
+[Link do projeto no figma](https://www.figma.com/file/ibWktwVpnog76rMYOdVhks/Dispondo-elementos-com-flexbox-e-grid?node-id=54%3A2358)
 
 
 <h2>Objetivos do projeto:
